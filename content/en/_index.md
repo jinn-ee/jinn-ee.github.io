@@ -29,7 +29,7 @@ sections:
     design:
       background:
         image:
-            filename: jinn.jpg
+            filename: j1.jpg
         gradient_end: '#292E49'
         gradient_start: '#536976'
         text_color_light: true
