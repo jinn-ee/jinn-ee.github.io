@@ -33,9 +33,6 @@ authors:
 
 tags:
   - SEO
-  - SEM
-  - SMM
-  - PPC
 ---
 
 ## Overview
@@ -67,3 +64,7 @@ tags:
 9. **Scalability**: WooCommerce is a highly scalable platform that can grow with your business. Whether you're just starting out or looking to expand, we can help you build a store that meets your current and future needs.
 
 10. **Profitability**: By working with JINN to develop a WooCommerce online store, you can increase the profitability of your business through improved sales, streamlined processes, and a better overall user experience.
+
+{{% callout note %}}
+**Ready to speak with a SEO expert?** [Send Us a Message](/#contact), [Book a Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 55514747](tel:37255514747) for a personalized approach.
+{{% /callout %}}

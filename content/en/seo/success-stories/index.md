@@ -83,7 +83,7 @@ The Photography Studio
 **The Summary of Success:**
 
 https://www.google.com/search?q=lastefotograaf
-- ### Number 1 Out of 8000 Results for "lastefotograaf" Keyword 
+- ### Number 1 Out of 6000 Results for "lastefotograaf" Keyword 
 - ### Organic Search traffic up 670%
 - ### Organic Social traffic up 350%
 - ### 120 Pages in Google Top-5 Results
