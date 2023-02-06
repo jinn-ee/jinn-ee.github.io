@@ -1,22 +1,67 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
-
-# Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
+#et:
+#  languageCode: et
+#  contentDir: content/et
+#  title:  'SEO ja Digiturunduse teenused'
 #  params:
-#    description: Site description in Chinese...
+#    description: 'SEO, kohalik SEO, Kodulehed, Veebipoed, Digiturundus, WooCommerce. Me teame täpselt, kuidas aidata väikeettevõtteid, sest me ise oleme üks neist.'
 #  menu:
 #    main:
-#      - name: 传
+#      - name: Meist
 #        url: '#about'
-#        weight: 1
+#        weight: 30
+#      - name: 'SEO teenused'
+#        url: 'seo/teenused/'
+#        weight: 10
+#      - name: Blogi
+#        url: '#posts'
+#        weight: 20
+#      - name: Kontakt
+#        url: '#contact'
+#        weight: 40
+#ru:
+#  languageCode: ru
+#  contentDir: content/ru
+#  title: 'SEO иУслуги интернет маркетинга'
+#  params:
+#    description: 'SEO, Местное SEO, Реклама в Google и Facebook, дизайн и разработка сайтов и магазинов, WooCommerce. Мы знаем, как помочь малому бизнесу, потому что сами такие.'
+#  menu:  
+#    main:
+#      - name: 'O нас'
+#        url: '#about'
+#        weight: 30
+#      - name: 'SEO услуги'
+#        url: 'seo/uslugi/'
+#        weight: 10
+#      - name: Блог
+#        url: '#posts'
+#        weight: 20
+#      - name: Контакт
+#        url: '#contact'
+#        weight: 40
+en:
+  languageCode: en
+  contentDir: content/en
+  title: ' '
+  params:
+    description: 'SEO, Local SEO, PPC, Web design and development, WooCommerce. We know how to help small businesses because we are one.'
+  menu:
+    main:
+      - name: 'SEO'
+        url: '/'
+        weight: 10
+      - name: 'Services'
+        url: 'seo/services/'
+        #identifier: services
+        weight: 20
+        #- name: 'Search Engine Optimization'
+        #parent: services
+        #weight: 10
+      - name: Success Stories
+        url: 'seo/success-stories/'
+        weight: 30
+      - name: 'About us'
+        url: '#about'
+        weight: 40
+      - name: 'Get a Quote'
+        url: '#contact'
+        weight: 50
