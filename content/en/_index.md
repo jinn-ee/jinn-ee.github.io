@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: SEO and Digital Marketing by JINN
+date: 2023-02-06T20:42:09+02:00
 type: landing
 
 sections:
