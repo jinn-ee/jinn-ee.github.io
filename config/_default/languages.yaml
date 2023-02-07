@@ -1,42 +1,45 @@
-#et:
-#  languageCode: et
-#  contentDir: content/et
-#  title:  'SEO ja Digiturunduse teenused'
-#  params:
-#    description: 'SEO, kohalik SEO, Kodulehed, Veebipoed, Digiturundus, WooCommerce. Me teame täpselt, kuidas aidata väikeettevõtteid, sest me ise oleme üks neist.'
-#  menu:
-#    main:
-#      - name: Meist
-#        url: '#about'
-#        weight: 30
-#      - name: 'SEO teenused'
-#        url: 'seo/teenused/'
-#        weight: 10
-#      - name: Blogi
-#        url: '#posts'
-#        weight: 20
-#      - name: Kontakt
-#        url: '#contact'
-#        weight: 40
+et:
+  languageCode: et
+  contentDir: content/et
+  title:  ' '
+  params:
+    description: 'SEO, kohalik SEO, Kodulehed, Veebipoed, Digiturundus, WooCommerce. Me teame täpselt, kuidas aidata väikeettevõtteid, sest me ise oleme üks neist.'
+  menu:
+    main:
+      - name: SEO
+        url: '/'
+        weight: 10
+      - name: Teenused
+        url: '/et/seo/teenused/'
+        weight: 20
+      - name: Edulood
+        url: '/et/seo/edulood/'
+        weight: 30        
+      - name: Meist
+        url: '/et/#about'
+        weight: 40
+      - name: Kontakt
+        url: '/et/#contact'
+        weight: 50
 #ru:
 #  languageCode: ru
 #  contentDir: content/ru
-#  title: 'SEO иУслуги интернет маркетинга'
+#  title: 'SEO и Услуги интернет маркетинга'
 #  params:
 #    description: 'SEO, Местное SEO, Реклама в Google и Facebook, дизайн и разработка сайтов и магазинов, WooCommerce. Мы знаем, как помочь малому бизнесу, потому что сами такие.'
 #  menu:  
 #    main:
 #      - name: 'O нас'
-#        url: '#about'
+#        url: '/#about'
 #        weight: 30
 #      - name: 'SEO услуги'
 #        url: 'seo/uslugi/'
 #        weight: 10
 #      - name: Блог
-#        url: '#posts'
+#        url: '/#posts'
 #        weight: 20
 #      - name: Контакт
-#        url: '#contact'
+#        url: '/#contact'
 #        weight: 40
 en:
   languageCode: en
@@ -51,17 +54,17 @@ en:
         weight: 10
       - name: 'Services'
         url: 'seo/services/'
-        #identifier: services
+#        identifier: services
         weight: 20
-        #- name: 'Search Engine Optimization'
-        #parent: services
-        #weight: 10
+#      - name: 'Search Engine Optimization'
+#        parent: services
+#        weight: 10
       - name: Success Stories
         url: 'seo/success-stories/'
         weight: 30
       - name: 'About us'
-        url: '#about'
+        url: '/#about'
         weight: 40
       - name: 'Get a Quote'
-        url: '#contact'
+        url: '/#contact'
         weight: 50

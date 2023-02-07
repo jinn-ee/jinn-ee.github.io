@@ -157,7 +157,7 @@ sections:
         postcode: '10129'
         country: Estonia
         country_code: EE
-      directions: ''
+      directions: 'Gooseberry Thieves OÜ Reg.16621721'
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'

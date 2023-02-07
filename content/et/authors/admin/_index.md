@@ -1,6 +1,6 @@
 ---
 # Display name
-title: JINN 🇪🇪
+title: JINN.ee
 
 # Full name (for SEO)
 first_name: Digiturunduse
@@ -19,7 +19,7 @@ role: Täisteenust Pakkuv Digitaalturunduse Agentuur
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Küsi pakkumist
-    url: '/#contact'
+    url: '/et/#contact'
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -80,11 +80,18 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Kas soovid tõsta oma veebilehe otsingumootorite edetabelit ja suurendada müüki? Ära vaata kaugemale! Me loome, hooldame ja edendame veebisaite ja veebipoode, mis on optimeeritud SEO-le, kasutajakogemusele ja loovad reaalset müüki.
+Kas vajate SEO auditit? E-kaubanduse konsultatsiooni? Mis on analüütikastrateegia seanss? Räägime sellest!
+{style="text-align: left;"}
+Iga koostöö algab teie praeguste veebiturundusalaste jõupingutuste kohustusteta hindamisega. Tavaliselt toimub see järgmiselt:
+{style="text-align: left;"}
+- E-kaubanduse konsultatsioon
+- PPC konsultatsioon
+- Analüütikastrateegia seanss 
+- SEO audit
+{style="text-align: left;"}
+Mis iganes on teie vajadused, arutame meie järeldusi ja teie eesmärke, et aidata teil kindlaks teha, kas te saate oma praegusest digitaalsest turundusprogrammist kõige rohkem kasu. Analüütikastrateegia seanss, PPC-konsultatsioon või SEO-audit ning vastav arutelu võimaldavad meil kindlaks teha, kas ja kuidas me saame teid aidata.
 {style="text-align: justify;"}
-> Optimeerides Sinu veebisaiti asjakohaste märksõnade jaoks, saame parandada Sinu otsingumootorite järjestust ja juhtida Sinu veebisaidile rohkem kvalifitseeritud liiklust.
-{style="text-align: justify;"}
-Ära lase oma ettevõttel digiajastul maha jääda. [Võta meiega ühendust](#contact) juba täna, et teada saada, kuidas me saame aidata Sinu ettevõttel kasvada.
-{style="text-align: justify;"}
-**Kas oled valmis rääkima? Helista kohe [+372 55599546](tel:37255514747)**
-{style="text-align: left; "}
+{{% callout note %}}
+**Olete valmis rääkima SEO-eksperdiga?** Saatke [sõnum](/et/#contact) või helistage [+372 55599546](tel:37255599546), et saada tasuta hinnapakkumine.
+{{% /callout %}}
+{style="text-align: left;"}
