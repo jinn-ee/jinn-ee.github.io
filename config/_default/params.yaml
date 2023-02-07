@@ -15,10 +15,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: LocalBusiness
+    site_type: Organization
     local_business_type: ProfessionalService
     org_name: 'JINN.ee'
-    description: 'Full-Service Digital Marketing Agency That Drives Revenue'
+    description: 'Full-Service Digital Marketing'
     twitter: ''
   analytics:
     google_analytics: ''

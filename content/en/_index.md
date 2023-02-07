@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: SEO and Digital Marketing by JINN
+title: SEO and Digital Marketing by JINN.ee
 date: 2023-02-06T20:42:09+02:00
 type: landing
 

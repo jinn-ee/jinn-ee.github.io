@@ -1,7 +1,7 @@
 ---
 date: 2023-01-05T12:40:50+02:00
 title: SEO Services That Grow Traffic and Increase Revenue
-summary: SEO services can be a big component of leads and sales. JINN has a proven track record of assisting businesses like yours in growing through SEO.
+summary: SEO services can be a big component of leads and sales. JINN.ee has a proven track record of assisting businesses like yours in growing through SEO.
 tags:
   - SEO
 ---

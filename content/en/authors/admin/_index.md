@@ -1,6 +1,6 @@
 ---
 # Display name
-title: JINN
+title: JINN.ee
 
 # Full name (for SEO)
 first_name: Digital Marketing
