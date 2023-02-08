@@ -1,3 +1,11 @@
 User-agent: *
-
+Disallow: /admin/
+Disallow: /categories/
+Disallow: /publication_types/
+Disallow: /et/admin/
+Disallow: /et/categories/
+Disallow: /et/publication_types/
+Disallow: /ru/admin/
+Disallow: /ru/categories/
+Disallow: /ru/publication_types/
 Sitemap: https://jinn.ee/sitemap.xml
