@@ -32,7 +32,7 @@ authors:
   - admin
 
 tags:
-  - SEO
+  - Search Engine Optimization (SEO)
 ---
 
 ## Overview

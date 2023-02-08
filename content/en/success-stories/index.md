@@ -1,11 +1,12 @@
 ---
 date: 2023-01-05T12:40:50+02:00
-title: SEO Case Studies and E-commerce Success Stories
-subtitle: 'Discovering the Power of Optimization: Real-Life Examples of SEO and E-commerce development'
-summary: SEO services can be a big component of leads and sales. JINN.ee has a proven track record of assisting businesses like yours in growing through SEO and E-commerce development.
-
+title: SEO Case Studies and E-commerce SEO Success Stories
+subtitle: 'Discovering the Power of Search Engine Optimization: Real-Life Examples of SEO and E-commerce SEO'
+summary: SEO services can be a big component of leads and sales. JINN.ee has a proven track record of assisting businesses like yours in growing through SEO and E-commerce SEO.
+tags:
+  - Search Engine Optimization (SEO)
 ---
-SEO case studies and E-commerce development success stories
+SEO case studies and E-commerce SEO success stories
 
 ----
 

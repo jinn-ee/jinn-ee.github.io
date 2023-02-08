@@ -21,7 +21,7 @@ marketing:
     description: 'Full-Service Digital Marketing'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-26BDX90V5B'
     baidu_tongji: ''
   verification:
     google: 'b9dQnYEgV_bmIWAOK023e9sh6r-ltLYjQaTVEmT3mWM'
@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: true
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -68,24 +68,24 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/jinn-ee/jinn-ee.github.io'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'jinn-ee/jinn-ee.github.io'
+      repo_id: 'R_kgDOIuR8rw'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOIuR8r84CUEZ-'
   search:
     provider: wowchemy
     algolia:

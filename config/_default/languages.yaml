@@ -10,10 +10,10 @@ et:
         url: '/'
         weight: 10
       - name: Teenused
-        url: '/et/seo/teenused/'
+        url: '/et/seo/'
         weight: 20
       - name: Edulood
-        url: '/et/seo/edulood/'
+        url: '/et/edulood/'
         weight: 30        
       - name: Meist
         url: '/et/#about'
@@ -53,14 +53,14 @@ en:
         url: '/'
         weight: 10
       - name: 'Services'
-        url: 'seo/services/'
+        url: '/seo/'
 #        identifier: services
         weight: 20
 #      - name: 'Search Engine Optimization'
 #        parent: services
 #        weight: 10
       - name: Success Stories
-        url: 'seo/success-stories/'
+        url: '/success-stories/'
         weight: 30
       - name: 'About us'
         url: '/#about'
