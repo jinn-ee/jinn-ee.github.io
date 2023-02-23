@@ -56,7 +56,7 @@ sections:
           icon: map-location-dot
           icon_pack: fas
         - name: E-Commerce Development
-          description: Experience the security and sales-boosting power of a higly functional online store and see your profits skyrocket
+          description: Experience the security and sales-boosting power of a highly functional online store and see your profits skyrocket
           icon: wordpress-simple
           icon_pack: fab
         - name: Conversion Optimization
