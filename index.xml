@@ -83,7 +83,7 @@ HTML код изображения:&lt;/p>
 &lt;li>группировку&lt;/li>
 &lt;/ul>
 &lt;p>Для этого необходима правильная структура базы данных товаров. Вот отличный пример как должно быть:&lt;/p>
-&lt;p>&lt;a href="https://partizanstore.eu/products/wifi-ip-39-4-cam/" target="_blank" rel="noopener">https://partizanstore.eu/products/wifi-ip-39-4-cam/&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://partizanstore.eu/products/wifi-ip-39-4-cam/#tab-additional_information" target="_blank" rel="noopener">https://partizanstore.eu/products/wifi-ip-39-4-cam/#tab-additional_information&lt;/a>&lt;/p>
 &lt;p>Название атрибута: Image sensor&lt;/p>
 &lt;p>Значение атрибута: 1/2.8&amp;quot; Full HD CMOS&lt;/p>
 &lt;p>URL атрибута: &lt;a href="https://partizanstore.eu/image-sensor/1-2-8-full-hd-cmos/" target="_blank" rel="noopener">https://partizanstore.eu/image-sensor/1-2-8-full-hd-cmos/&lt;/a>&lt;/p>
