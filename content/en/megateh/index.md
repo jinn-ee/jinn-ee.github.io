@@ -107,7 +107,7 @@ URL категории: /tooted/videovalve - правильнее было бы 
 
 Для этого необходима правильная структура базы данных товаров. Вот отличный пример как должно быть:
 
-https://partizanstore.eu/products/wifi-ip-39-4-cam/
+https://partizanstore.eu/products/wifi-ip-39-4-cam/#tab-additional_information
 
 Название атрибута: Image sensor
 
