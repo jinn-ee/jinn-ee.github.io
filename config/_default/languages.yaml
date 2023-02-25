@@ -1,7 +1,7 @@
 et:
   languageCode: et
   contentDir: content/et
-  title:  ' '
+  title:  'JINN.ee'
   params:
     description: 'SEO, kohalik SEO, Kodulehed, Veebipoed, Digiturundus, WooCommerce. Me teame täpselt, kuidas aidata väikeettevõtteid, sest me ise oleme üks neist.'
   menu:
@@ -44,7 +44,7 @@ et:
 en:
   languageCode: en
   contentDir: content/en
-  title: ' '
+  title: 'JINN.ee'
   params:
     description: 'SEO, Local SEO, PPC, Web design and development, WooCommerce. We know how to help small businesses because we are one.'
   menu:
