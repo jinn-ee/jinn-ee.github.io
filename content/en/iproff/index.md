@@ -80,7 +80,7 @@ summary: 'Технический SEO анализ проблем'
 **На сайте присутствует код выводящий рекламу Adsense!**
 
 ```html
-<script async="async" src="https://web.archive.org/web/20230228095700js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8950880025221709" crossorigin="anonymous" type="text/javascript"></script>
+<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8950880025221709" crossorigin="anonymous" type="text/javascript"></script>
 ```
 В доказательство того, что код присутствует 28.02.2023, в строке 229, мы сделали слепок кода страницы, и сохранили его в архиве
 

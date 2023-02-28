@@ -2,12 +2,19 @@ User-agent: *
 Disallow: /admin/
 Disallow: /categories/
 Disallow: /publication_types/
+Disallow: /tags/
+Disallow: /tag/
 Disallow: /et/admin/
 Disallow: /et/categories/
 Disallow: /et/publication_types/
+Disallow: /et/tags/
+Disallow: /et/tag/
 Disallow: /ru/admin/
 Disallow: /ru/categories/
 Disallow: /ru/publication_types/
+Disallow: /ru/tags/
+Disallow: /ru/tag/
 Disallow: /megateh/
 Disallow: /iproff/
+
 Sitemap: https://jinn.ee/sitemap.xml
