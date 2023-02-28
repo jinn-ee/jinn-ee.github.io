@@ -8,4 +8,6 @@ Disallow: /et/publication_types/
 Disallow: /ru/admin/
 Disallow: /ru/categories/
 Disallow: /ru/publication_types/
+Disallow: /megateh/
+Disallow: /iproff/
 Sitemap: https://jinn.ee/sitemap.xml

@@ -5007,7 +5007,91 @@
 &lt;p>If you are ready to take your Website Development to the next level and start seeing a real return on your investment:&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://jinn.ee/#contact">Contact us today&lt;/a> to learn more and schedule a consultation.&lt;/strong>&lt;/p>
 &lt;/div>
-&lt;/div></description></item><item><title>megateh.ee</title><link>https://jinn.ee/megateh/</link><pubDate>Sat, 25 Feb 2023 17:54:03 +0200</pubDate><guid>https://jinn.ee/megateh/</guid><description>&lt;p>Технический SEO анализ проблем&lt;/p>
+&lt;/div></description></item><item><title>iproff.ee</title><link>https://jinn.ee/iproff/</link><pubDate>Sat, 25 Feb 2023 17:54:03 +0200</pubDate><guid>https://jinn.ee/iproff/</guid><description>&lt;p>Осмотрев сайт и магазин мы можем утверждать, что существует много проблем в области поисковой оптимизации вызванных некачественной разработкой и изначально непродуманной структурой.&lt;/p>
+&lt;p>Для того, чтобы люди попадали на сайт страницы должны быть &amp;ldquo;проиндексированы&amp;rdquo; Google. Если поисковому роботу, который индексирует страницы, не нравится как страница сделана, как организован материал на странице или он видит ошибки - индексирования не будет. Это тревожный и плохой сигнал, свидетельствующий об однозначных проблемах с сайтом.&lt;/p>
+&lt;p>Как узнать сколько страниц проиндексировано в Google? &lt;a href="https://www.google.com/search?q=site%3Aiproff.ee" target="_blank" rel="noopener">https://www.google.com/search?q=site%3Aiproff.ee&lt;/a>&lt;/p>
+&lt;p>Критически мало!&lt;/p>
+&lt;h2 id="проблемы-сайта">Проблемы сайта&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>На сайте iproff, мягко говоря, беспорядок. В админке wordpress видно, что разработано тяп-ляп.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Подключено много бессмысленных, ни для чего не нужных плагинов.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Плагины не обновлены, что создает риск безопасности.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Инсталляция сочится ошибками.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Тема оформления изготовленная неким Dmitri gomedia.ee, не отвечает стандартам и содержит ошибки.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Примечательно, что при переходе на сайт разработчика &lt;a href="https://gomedia.ee/" target="_blank" rel="noopener">https://gomedia.ee/&lt;/a> броузер ругается:&lt;/p>
+&lt;blockquote>
+&lt;p>Warning: Potential Security Risk Ahead. Firefox detected a potential security threat and did not continue to gomedia.ee. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>Отсутствует вменяемая структура и содержимое&lt;/p>
+&lt;ul>
+&lt;li>категорий&lt;/li>
+&lt;li>тагов&lt;/li>
+&lt;li>страниц&lt;/li>
+&lt;li>постов&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Все выведено в одну заглавную страницу, что очень неверно с точки зрения поисковой оптимизации и привлечения трафика из Google.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="проблемы-магазина">Проблемы магазина&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Отсутствует возможность прямо сейчас заплатить кредитной картой, что очень понижает количество клиентов. Четверо из пяти человек предпочли бы заплатить прямо сейчас, а не заморачиваться с переводом денег на счет. Это очень понижает доход магазина.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Доставка не интегрирована с оплатой. Лучше печатать этикетки самим, с готовыми данными клиента, текинг-кодом, а не делать все вручную, как сейчас.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Используется любительская тема оформления Divi, со встроенным конструктором страниц для новичков.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Неверная структура локализованных URL, с избыточной вложенностью, которая не позволит высоко ранжировать магазин&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">link&lt;/span> &lt;span class="na">rel&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;alternate&amp;#34;&lt;/span> &lt;span class="na">href&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;https://shop.iproff.ee/&amp;#34;&lt;/span> &lt;span class="na">hreflang&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;et&amp;#34;&lt;/span> &lt;span class="p">/&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">link&lt;/span> &lt;span class="na">rel&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;alternate&amp;#34;&lt;/span> &lt;span class="na">href&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;https://shop.iproff.ee/en/online-shop/&amp;#34;&lt;/span> &lt;span class="na">hreflang&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;en&amp;#34;&lt;/span> &lt;span class="p">/&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">link&lt;/span> &lt;span class="na">rel&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;alternate&amp;#34;&lt;/span> &lt;span class="na">href&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;https://shop.iproff.ee/ru/shop/&amp;#34;&lt;/span> &lt;span class="na">hreflang&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;ru&amp;#34;&lt;/span> &lt;span class="p">/&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Сотни&lt;/strong> фундаментальных ошибок, показывающих о полном непонимании принципов поисковой оптимизации,&lt;/p>
+&lt;p>например:&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>
+&lt;p>Важный мета-тэг description, на эстонской версии магазина, содержит описание на трех языках (а нужно только на одном, эстонском) . Google ненавидит подобное.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">meta&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;description&amp;#34;&lt;/span> &lt;span class="na">content&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Ekraani kiirvahetus Tallinnas - iPhone ja Apple seadmed, Быстрая починка экранов iPhone и Apple устройств в пределах Таллинна, Quick fix of iPhone and Apple device screens within Tallinn,&amp;#34;&lt;/span> &lt;span class="p">/&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>важнейший тэг title вообще не содержит ничего полезного, а это самое главное место.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>E-pood - iProff&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>Разработчик установил любительский плагин All in One SEO 4.2.0, которым не умеет пользоваться. Плагин ЗАНОВО, повторно прописал в страницу мета-тэг description с уже другими значениями. Это страшный грех в глазах Google,он считает подобное спамом и удаляет сайт из своей базы, и трафика не видать.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">meta&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;description&amp;#34;&lt;/span> &lt;span class="na">content&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;E-pood Watch 5S SE 6 6 Plus 6S 6S Plus 7 7 Plus 8 8 Plus X XS XR XS MAX 11 11 PRO 12 12 PRO 12 Pro Max 12 mini Allahindlusega tooted Silikonrihm Sport (erinevad värvid)Sale!€14,99 – €19,99 Silikonrihm (erinevad värvid)Sale!€10,99 – €14,99 Apple Watch Milanese rihm (erinevad värvid)Sale!€14,99 – €24,99 Apple AirPods&amp;#34;&lt;/span> &lt;span class="p">/&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="alert alert-warning">
+&lt;div>
+&lt;strong>Тревожный код!&lt;/strong> AdSense - это система от Google, которая позволяет выводить на страницах рекламу, и если на нее кликнет посетитель страницы, то вебмастер получит оплату за клик. Ставить эту систему в магазин не имеет никакого смысла и выгоды для владельца магазина, потому что она будет уводить потенциального клиента со страницы. Но для вебмастера или разработчика смысл есть и довольно большой. Можно тайно от владельца демонстрировать рекламу, по ключевым словам типа Apple, и класть себе в карман доход, не взирая на огромный вред наносимый владельцу магазина.
+&lt;/div>
+&lt;/div>
+&lt;p>&lt;strong>На сайте присутствует код выводящий рекламу Adsense!&lt;/strong>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">script&lt;/span> &lt;span class="na">async&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;async&amp;#34;&lt;/span> &lt;span class="na">src&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;https://web.archive.org/web/20230228095700js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8950880025221709&amp;#34;&lt;/span> &lt;span class="na">crossorigin&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;anonymous&amp;#34;&lt;/span> &lt;span class="na">type&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;text/javascript&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&amp;lt;/&lt;/span>&lt;span class="nt">script&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>В доказательство того, что код присутствует 28.02.2023, в строке 229, мы сделали слепок кода страницы, и сохранили его в архиве&lt;/p>
+&lt;p>&lt;a href="https://web.archive.org/web/20230228095700/https://shop.iproff.ee/" target="_blank" rel="noopener">https://web.archive.org/web/20230228095700/https://shop.iproff.ee/&lt;/a>&lt;/p></description></item><item><title>megateh.ee</title><link>https://jinn.ee/megateh/</link><pubDate>Sat, 25 Feb 2023 17:54:03 +0200</pubDate><guid>https://jinn.ee/megateh/</guid><description>&lt;p>Технический SEO анализ проблем&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
