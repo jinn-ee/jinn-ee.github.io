@@ -15,7 +15,7 @@ sections:
         url: '/et/#contact'
       cta_alt:
         label: Lisainfo SEO teenuste kohta
-        url: et/seo/teenused/
+        url: et/seo/
       cta_note:
         label: Suurendage oma kasumit <br>meie turundusteenustega
       text: |-

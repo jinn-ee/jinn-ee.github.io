@@ -15,7 +15,7 @@ sections:
         url: '/#contact'
       cta_alt:
         label: Learn more about SEO services
-        url: seo/services/
+        url: seo/
       cta_note:
         label: Maximize your profits with<br> our marketing services
       text: |-
