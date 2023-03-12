@@ -30,7 +30,7 @@ authors:
 ---
 {{< toc >}}
 {{% callout note %}}
-**Ready to talk with PPC expert?** [Contact us](/et/#contact) or call [+372 5559 9546](tel:37255599546), for personalised quote.
+**Ready to talk with PPC expert?** [Contact us](/#contact) or call [+372 5559 9546](tel:37255599546), for personalised quote.
 {{% /callout %}}
 ## Introduction
 
@@ -191,5 +191,5 @@ Our team of experienced PPC experts knows how to optimize your campaigns for max
 We also continuously monitor and adjust your campaigns to ensure that they are performing at peak efficiency. By analyzing data and tracking key metrics such as click-through rates and conversion rates, we can make informed decisions about where to allocate your budget and which strategies to pursue for maximum impact.
 
 With our PPC management services, you can rest assured that your advertising dollars are being spent wisely and that you are getting the best possible results. So why wait? Contact us today to learn more about how we can help take your business to the next level with expert PPC management.
-**Ready to talk with PPC expert?** [Contact us](/et/#contact) or call [+372 5559 9546](tel:37255599546), for personal offer.
+**Ready to talk with PPC expert?** [Contact us](/#contact) or call [+372 5559 9546](tel:37255599546), for personal offer.
 {{% /callout %}}
