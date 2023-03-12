@@ -32,8 +32,6 @@ authors:
 {{% callout note %}}
 **Ready to talk with PPC expert?** [Contact us](/et/#contact) or call [+372 5559 9546](tel:37255599546), for personalised quote.
 {{% /callout %}}
-{{% /callout %}}
-
 ## Introduction
 
 Are you taking over a Pay per Click (PPC) campaign from someone who doesn't know much about digital ads? It can be a daunting task, but don't worry. We've got you covered with a list of common mistakes to avoid and actionable tips to optimize your PPC efforts.
