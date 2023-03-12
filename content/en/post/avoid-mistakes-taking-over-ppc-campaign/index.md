@@ -30,7 +30,8 @@ authors:
 ---
 {{< toc >}}
 {{% callout note %}}
-**Oled valmis rääkima PPC-eksperdiga?** [Saada meile sõnum](/et/#contact) või helista [+372 5559 9546](tel:37255599546), et saada personaalse pakkumise.
+**Ready to talk with PPC expert?** [Contact us](/et/#contact) or call [+372 5559 9546](tel:37255599546), for personal offer.
+{{% /callout %}}
 {{% /callout %}}
 
 ## Introduction
