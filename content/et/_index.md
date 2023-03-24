@@ -90,7 +90,7 @@ sections:
       subtitle: 'Interneti-turunduse blogi'
       text: 'SEO ja digitaalne turundus'
       # Choose how many pages you would like to display (0 = all pages)
-      count: 2
+      count: 4
       # Filter on criteria
       filters:
         folders:
@@ -108,7 +108,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: card
       columns: '2'
 #  - block: portfolio
 #    id: projects

@@ -30,7 +30,7 @@ authors:
 ---
 {{< toc >}}
 {{% callout note %}}
-**Ready to talk with PPC expert?** [Contact us](/#contact) or call [+372 5559 9546](tel:37255599546), for personalised quote.
+**Ready to talk with PPC expert?** [Contact us](/#contact) or call [+372 5559 9546](tel:37255599546), for personalized quote.
 {{% /callout %}}
 ## Introduction
 
