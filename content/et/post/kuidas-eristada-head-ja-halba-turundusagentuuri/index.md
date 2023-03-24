@@ -1,7 +1,7 @@
 ---
 title: Kuidas eristada head ja halba turundusagentuuri?
-subtitle: Õige turundusagentuuri valimine on eduka ettevõtte jaoks võtmetähtsusega. Loe meie blogipostitust ja saa teada, kuidas eristada head halvast agentuurist
-summary: Õige turundusagentuuri valimine on eduka ettevõtte jaoks võtmetähtsusega. Loe meie blogipostitust ja saa teada, kuidas eristada head halvast agentuurist.
+subtitle: Õige turundusagentuuri valimine on eduka ettevõtte edu võti. Loe meie blogipostitust ja saa teada, kuidas eristada head agentuuri halvast
+summary: Õige turundusagentuuri valimine on eduka ettevõtte edu võti. Loe meie blogipostitust ja saa teada, kuidas eristada head agentuuri halvast.
 
 # Link this post with a project
 projects: []
