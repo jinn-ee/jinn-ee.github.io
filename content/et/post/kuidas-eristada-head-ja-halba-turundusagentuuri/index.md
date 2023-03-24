@@ -34,7 +34,7 @@ authors:
 Kas kaalute [turundusagentuuri](/et/#contact) palgata, kuid kardate valesse valikusse sattumist? See on mõistlik mure, arvestades raha, mida inimesed aastate jooksul valedele agentuuridele on kulutanud. Selles artiklis loetleme mõned küsimused, mis aitavad teil eristada head ja halba agentuuri ning tagada õige otsuse tegemise.
 
 ## Kui keerulised on lepingud? 
-Üks esimesi asju, mida kaaluda, on agentuuri lepingute keerukus. Kui need on täis juriidilist žargooni, võib see klientidele ülekoormavaks muutuda ja põhjustada stressi. Lihtne ja arusaadav leping on oluline ning piirangud mitte. Veenduge, et mõistate kõike enne allkirjastamist.
+Üks esimesi asju, mida kaaluda, on agentuuri lepingute keerukus. Kui need on täis juriidilist žargooni, võib see klientidele ülekoormavaks muutuda ja põhjustada stressi. Lihtne ja arusaadav leping on oluline, ahelad aga mitte. Veenduge, et mõistate kõike enne allkirjastamist.
 
 ## Kas pakkumised on keerulised ja võtavad palju aega? 
 Järgmine asi, mida kaaluda, on agentuuri pakkumised. Kuigi pakkumiste põhjalikkus on normaalne, ei pruugi keeruline ja suure survega esitlus olla vajalik. Kui kogete agentuuri, kes on müügimeistriks saanud, küsige endalt, kas saate seda endale lubada. Ärge laske ennast ahvatleda uhke kontori ja luksuslike pakkumistega.
