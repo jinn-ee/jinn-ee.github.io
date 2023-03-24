@@ -43,7 +43,7 @@ Järgmine asi, mida kaaluda, on agentuuri pakkumised. Kuigi pakkumiste põhjalik
 Pärast pakkumist kaaluge, kas tunnete müügikõne ajal survet. Teie olete klient ja maksate, nii et te ei tohiks tunda end nagu teile müüakse ajakava Alabamas. Otsite partnerit, mitte eset.
 
 ## Kas nad garanteerivad tulemusi? 
-Agentuuril on lihtne anda hinnanguid, kuid tulemuste tagamine on midagi muud. Enamikul juhtudel, kui agentuur garanteerib teatud taseme kasumlikkust ja edu, on tõenäoliselt mõni konks. Olge ettevaatlik igasuguste agentuuride suhtes, kes teevad suuri lubadusi, millel pole andmeid toetavaid tõendeid.
+Agentuuril on lihtne anda hinnanguid, kuid tulemuste tagamine on midagi muud. Enamikel juhtudel, kui agentuur garanteerib teatud taseme kasumlikkust ja edu, on tõenäoliselt mõni konks. Olge ettevaatlik igasuguste agentuuride suhtes, kes teevad suuri lubadusi, millel pole andmeid toetavaid tõendeid.
 
 ## Milline on nende hinnakujundusmudel? 
 Veenduge, et mõistate agentuuri hinnakujundusmudelit. Kas nad teenivad tasust või teenivad varjatud raha? Olge teadlikud võimalikest hilisematest lisakuludest või tasudest.
