@@ -42,6 +42,8 @@ Kohalikul SEO-l ja SEO-l üldiselt on palju eeliseid võrreldes liikluse ostmise
 5. **Usaldusväärsus ja usaldus** - inimesed usaldavad orgaanilisi tulemusi rohkem kui Google'i reklaame.
 {{% /callout %}}
 
-Hinnapakkumine [dokumendi](https://docs.google.com/document/d/1Wya1KOnCRQRemwC1TRadTbDYJZE-vaLQEFKr-Onbbx8/edit?usp=sharing) kujul
+Hinnapakkumine [dokumendi](https://docs.google.com/document/d/1Wya1KOnCRQRemwC1TRadTbDYJZE-vaLQEFKr-Onbbx8/edit?usp=sharing) kujul.
+
 E-post: [hello@jinn.ee](mailto:hello@jinn.ee)
+
 Tel: [+372 5559 9546](tel:37255599546)
