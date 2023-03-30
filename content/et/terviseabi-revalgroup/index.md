@@ -47,3 +47,4 @@ Hinnapakkumine [dokumendi](https://docs.google.com/document/d/1Wya1KOnCRQRemwC1T
 E-post: [hello@jinn.ee](mailto:hello@jinn.ee)
 
 Tel: [+372 5559 9546](tel:37255599546)
+

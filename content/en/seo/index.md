@@ -43,3 +43,4 @@ If you are ready to take your online presence to the next level and start seeing
 {{% callout note %}}
 **Ready to speak with a SEO expert?** [Book a Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 55514747](tel:37255514747) for a personalized approach.
 {{% /callout %}}
+

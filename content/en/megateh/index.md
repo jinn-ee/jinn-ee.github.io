@@ -138,3 +138,4 @@ URL атрибута: https://partizanstore.eu/image-sensor/1-2-8-full-hd-cmos/
 ### Слишком длинные  meta таги description
 
 Длина meta тага description должна быть до 160  символов. На сайте megateh.ee найдено 110 слищком длинных  meta тагов description. Эти  страницы товаров не займут высоких мест в поисковой выдаче.
+
