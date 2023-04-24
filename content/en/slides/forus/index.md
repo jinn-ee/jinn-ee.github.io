@@ -62,7 +62,7 @@ slides:
 
 
 ---
-
+{{< slide background-image="security.jpg" >}}
 
 ## 1. Security
 
@@ -70,6 +70,7 @@ slides:
 - Local SEO: Stand out in your local market
 - PPC: Instant online visibility with targeted ads
 - Content Marketing: Engage and build trust with customers
+
 ---
 
 ## 2. Safety
@@ -78,6 +79,7 @@ slides:
 - Conversion Optimization: Boost course sign-ups
 - Marketing Strategy: Reach the right industries
 - Data Insights: Craft targeted safety campaigns
+
 ---
 
 ## 3. Real Estate Management
@@ -154,6 +156,6 @@ slides:
 
 - Schedule a call to discuss collaboration
 - Create a tailored proposal for FORUS Company
-- Establish a flexible partnership with JINN on a monthly retainer
+- Establish a flexible partnership with JINN on a monthly retainer basis
 - Manage projects with individual budgets for optimal resource use
 - Let JINN optimize marketing efforts, saving costs and increasing ROI

@@ -30,13 +30,13 @@ We are excited to present our extensive service offer tailored specifically for 
 
 ## FORUS Services
 
-1. FORUS Security Services
-2. FORUS Safety Services
-3. FORUS Real Estate Management
-4. FORUS Maintenance
-5. FORUS Construction Services
-6. FORUS Energy Efficiency
-7. FORUS Cleaning Services
+1. Security Services
+2. Safety Services
+3. Real Estate Management
+4. Maintenance
+5. Construction Services
+6. Energy Efficiency
+7. Cleaning Services
 
 
 ## 1. Security
