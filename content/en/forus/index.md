@@ -1,16 +1,13 @@
 ---
 date: 2023-04-24T8:54:03+02:00
-title: Amplify FORUS Business Power with JINN Marketing Agency
+title: "Amplify FORUS Business Power with JINN's Marketing Strategies"
 subtitle: Marketing with Customized Solutions
 summary: Marketing with Customized Solutions
 
 ---
-
-{{% callout note %}}
-We are excited to present our extensive service offer tailored specifically for FORUS Company. These service examples showcase the diverse strategies and tactics we employ to drive your business toward success. For a condensed version, please refer to the executive presentation linked [here](https://docs.google.com/presentation/d/1CECfjChke8QgUYBKvLldL-ce1hWB9rmh8JeW06fWs-M/edit?usp=sharing).
-{{% /callout %}}
-
 [Estonian version](https://jinn.ee/et/forus/)
+
+{{< cta cta_text="FORUS presentation" cta_link="https://docs.google.com/presentation/d/1CECfjChke8QgUYBKvLldL-ce1hWB9rmh8JeW06fWs-M/edit?usp=sharing" cta_new_tab="true" >}}
 
 ## Agenda
 

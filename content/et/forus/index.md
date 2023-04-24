@@ -5,11 +5,9 @@ subtitle: Turundus kohandatud lahendustega
 summary: Turundus kohandatud lahendustega
 ---
 
-{{% callout note %}}
-Meil on hea meel tutvustada oma ulatuslikku teenustepakkumist, mis on kohandatud spetsiaalselt FORUS jaoks. Need teenuse näited tutvustavad erinevaid strateegiaid ja taktikaid, mida me rakendame, et viia teie äri edule. Lühendatud versiooni leiate lingitud esitlusest [siit](https://docs.google.com/presentation/d/1TlmCIPOif8_yqvTkoWOb4prQrk0hSu6LA7TupWWTpQY/edit?usp=sharing).
-{{% /callout %}}
-
 [English version](https://jinn.ee/forus/)
+
+{{< cta cta_text="FORUS presentatisioon" cta_link="https://docs.google.com/presentation/d/1TlmCIPOif8_yqvTkoWOb4prQrk0hSu6LA7TupWWTpQY/edit?usp=sharing" cta_new_tab="true" >}}
 
 ## Päevakava
 
