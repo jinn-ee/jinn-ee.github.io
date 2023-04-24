@@ -62,7 +62,6 @@ slides:
 
 
 ---
-{{< slide background-image="security.jpg" >}}
 
 ## 1. Security
 
