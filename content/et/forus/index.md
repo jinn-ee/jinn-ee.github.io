@@ -197,8 +197,5 @@ Meil on hea meel tutvustada oma ulatuslikku teenustepakkumist, mis on kohandatud
 ### Haldame projekte individuaalsete eelarvetega, et kasutada ressursse optimaalselt
 > Jaotage ressursse tõhusalt, määrates individuaalsed eelarved selliste ülesannete jaoks nagu arendajate, sisutoimetajate ja tehnilise sisu kirjutajate palkamine, linkide või pressiteadete ostmine ja reklaamieelarvete haldamine.
 
-### Laske JINN'il optimeerida turundustegevust, säästes kulusid ja suurendades tasuvust
-> Usaldage JINN'i teadmisi oma turunduskampaaniate kontrollimisel ja optimeerimisel, mille tulemuseks on märkimisväärne kulude kokkuhoid ja FORUS'e investeeringute suurema tasuvuse saavutamine.
-
 ### Alustame koos teekonda kasvu ja edu poole
 > Tehke JINN'iga koostööd, et alustada FORUS'e kiirendatud kasvu ja edu teekonda, kasutades meie teadmisi ja pühendumust käegakatsutavate tulemuste saavutamiseks.
