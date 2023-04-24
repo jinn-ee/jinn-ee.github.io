@@ -7,7 +7,7 @@ summary: Turundus kohandatud lahendustega
 
 [English version](https://jinn.ee/forus/)
 
-{{< cta cta_text="FORUS presentatisioon" cta_link="https://docs.google.com/presentation/d/1TlmCIPOif8_yqvTkoWOb4prQrk0hSu6LA7TupWWTpQY/edit?usp=sharing" cta_new_tab="true" >}}
+{{< cta cta_text="Presentatsioon FORUS'e Jäoks" cta_link="https://docs.google.com/presentation/d/1TlmCIPOif8_yqvTkoWOb4prQrk0hSu6LA7TupWWTpQY/edit?usp=sharing" cta_new_tab="true" >}}
 
 ## Päevakava
 

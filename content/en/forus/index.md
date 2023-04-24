@@ -7,7 +7,7 @@ summary: Marketing with Customized Solutions
 ---
 [Estonian version](https://jinn.ee/et/forus/)
 
-{{< cta cta_text="FORUS presentation" cta_link="https://docs.google.com/presentation/d/1CECfjChke8QgUYBKvLldL-ce1hWB9rmh8JeW06fWs-M/edit?usp=sharing" cta_new_tab="true" >}}
+{{< cta cta_text="The Presentation for FORUS" cta_link="https://docs.google.com/presentation/d/1CECfjChke8QgUYBKvLldL-ce1hWB9rmh8JeW06fWs-M/edit?usp=sharing" cta_new_tab="true" >}}
 
 ## Agenda
 
