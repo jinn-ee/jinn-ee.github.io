@@ -36,6 +36,8 @@ title: "5.0 Robotics Marketing Plan by JINN.ee"
 
 ### LinkedIn
 
+💡 Idea: Use Super power of LinkedIn paid ads.
+
 1. `Targeted Sponsored Content`: Create a series of eye-catching sponsored content pieces that highlight the benefits of 5.0 Robotics' CNC solutions, such as improved efficiency, cost savings, and ease of use. Target manufacturing SME decision-makers in specific industries and locations.
 2. `InMail Campaigns`: Craft personalized InMail messages introducing 5.0 Robotics and its CNC solutions to key decision-makers in target industries. Include an invitation to a live demo, a webinar, or a free consultation to further engage potential clients.
 3. `Carousel Ads`: Design visually engaging carousel ads showcasing the key features and benefits of 5.0 Robotics' CNC machines, with each slide highlighting a different aspect of the product. Use LinkedIn's targeting options to reach the most relevant audience.
@@ -63,25 +65,24 @@ Target the ads towards manufacturing SME owners, decision-makers, and industry p
 
 ### Google
 
-Idea: Launch a Google Ads campaign promoting 5.0 Robotics' CNC solutions for SMEs in the manufacturing sector, emphasizing their affordability, ease of use, and seamless integration.
+💡 Idea: Launch a Google Ads campaign promoting 5.0 Robotics' CNC solutions for SMEs in the manufacturing sector, emphasizing their affordability, ease of use, and seamless integration.
 
 1. `Campaign Objective`: Increase brand awareness and lead generation for 5.0 Robotics' CNC machines among manufacturing SMEs.
 2. `Target Keywords`: Focus on high-traffic, low-competition keywords related to CNC solutions, Industry 5.0, manufacturing automation, and affordable CNC machines for SMEs.
 3. `Ad Formats`: Utilize a combination of search and display ads, including responsive search ads, responsive display ads, and video ads.
 4. `Ad Copy`: Highlight the key benefits of 5.0 Robotics' CNC solutions, such as affordability, user-friendly design, and seamless integration with existing production processes.
+5. `Landing Page`: Direct users to a dedicated landing page featuring an overview of 5.0 Robotics' CNC solutions, testimonials, case studies, and a clear call-to-action (CTA) to request a product demo or consultation.
+6. `Ad Extensions`: Use sitelink extensions to showcase specific CNC machine models, callout extensions to highlight unique features, and call extensions to enable users to contact 5.0 Robotics directly.
+7. `Geo-Targeting`: Initially target Estonia and nearby regions, then expand the campaign to other countries based on performance and market research.
+8. `Audience Targeting`: Focus on decision-makers in the manufacturing sector, such as business owners, production managers, and engineers.
+9. `Bid Strategy`: Employ a mix of manual and automated bidding strategies to optimize for clicks, impressions, or conversions based on campaign performance.
+10. `Performance Monitoring and Optimization`: Regularly review campaign performance, adjust bids, and refine ad copy to maximize ROI and achieve campaign objectives.
 
 Examples:
 
 - "Affordable CNC Solutions for SMEs – Revolutionize Your Manufacturing Process with 5.0 Robotics!"
 - "Experience Industry 5.0 with 5.0 Robotics' Easy-to-Use, Cost-Effective CNC Machines for SMEs"
 - "Upgrade Your Manufacturing Capabilities – Discover 5.0 Robotics' Advanced CNC Solutions for SMEs"
-
-1. `Landing Page`: Direct users to a dedicated landing page featuring an overview of 5.0 Robotics' CNC solutions, testimonials, case studies, and a clear call-to-action (CTA) to request a product demo or consultation.
-2. `Ad Extensions`: Use sitelink extensions to showcase specific CNC machine models, callout extensions to highlight unique features, and call extensions to enable users to contact 5.0 Robotics directly.
-3. `Geo-Targeting`: Initially target Estonia and nearby regions, then expand the campaign to other countries based on performance and market research.
-4. `Audience Targeting`: Focus on decision-makers in the manufacturing sector, such as business owners, production managers, and engineers.
-5. `Bid Strategy`: Employ a mix of manual and automated bidding strategies to optimize for clicks, impressions, or conversions based on campaign performance.
-6. `Performance Monitoring and Optimization`: Regularly review campaign performance, adjust bids, and refine ad copy to maximize ROI and achieve campaign objectives.
 
 > Pricing: €2000/month (ongoing) + €1000 one-time setup fee + advertising budget 
 
