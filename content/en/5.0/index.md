@@ -1,6 +1,6 @@
 ---
 date: 2023-04-24T8:54:03+02:00
-title: "5.0 Robotics Marketing Plan by JINN.ee"
+title: "5.0 Robotics Marketing Plan"
 ---
 ## SEO (Search Engine Optimization)
 
@@ -36,7 +36,7 @@ title: "5.0 Robotics Marketing Plan by JINN.ee"
 
 ### LinkedIn
 
-💡 Idea: Use Super power of LinkedIn paid ads.
+💡 Idea: Use Super Power of LinkedIn paid ads.
 
 1. `Targeted Sponsored Content`: Create a series of eye-catching sponsored content pieces that highlight the benefits of 5.0 Robotics' CNC solutions, such as improved efficiency, cost savings, and ease of use. Target manufacturing SME decision-makers in specific industries and locations.
 2. `InMail Campaigns`: Craft personalized InMail messages introducing 5.0 Robotics and its CNC solutions to key decision-makers in target industries. Include an invitation to a live demo, a webinar, or a free consultation to further engage potential clients.
@@ -86,7 +86,7 @@ Examples:
 
 > Pricing: €2000/month (ongoing) + €1000 one-time setup fee + advertising budget 
 
-## By implementing JINN's tailored marketing plan, 5.0 Robotics can expect the following outcomes:
+## By implementing this tailored marketing plan, 5.0 Robotics can expect the following outcomes:
 
 - ### Increased online visibility, brand awareness, and market reach
 - ### Higher search rankings, website traffic, and lead generation
@@ -96,7 +96,7 @@ Examples:
 ## With JINN's expertise, 5.0 Robotics will solidify its position as a leader in the Industry 5.0 revolution and drive sustainable growth.
 
 {{% callout note %}}
-This offer has been prepared by [Vadim Iljin](https://vadimiljin.com). You can [Book a Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 55514747](tel:37255514747) or email [hello@jinn.ee](mailto:hello@jinn.ee)
+This offer has been prepared by [Vadim Iljin](https://vadimiljin.com). You can [Book a Video Chat](https://calendly.com/jinnee/video-chat) or Call Directly at [+372 55514747](tel:37255514747) or Email [hello@jinn.ee](mailto:hello@jinn.ee).
 {{% /callout %}}
 
 
