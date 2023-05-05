@@ -108,7 +108,7 @@ https://www.google.com/search?q=lastefotograaf
 - Local SEO
 
 {{% callout note %}}
-**Ready to speak with a SEO expert?** [Send Us a Message](/#contact), [Book a Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 55514747](tel:37255514747) for a personalized approach.
+**Ready to speak with a SEO expert?** [Send Us a Message](/#contact), [Book a Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 56464211](tel:37256464211) for a personalized approach.
 {{% /callout %}}
 
 

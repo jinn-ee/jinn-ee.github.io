@@ -41,6 +41,6 @@ If you are ready to take your online presence to the next level and start seeing
 5. In addition to improving your search engine rankings, we are good in conversion rate optimization (CRO). We work to not only bring more traffic to your website, but to also ensure that those visitors are taking desired actions, such as making a purchase or filling out a contact form.
 
 {{% callout note %}}
-**Ready to speak with a SEO expert?** [Book a Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 55514747](tel:37255514747) for a personalized approach.
+**Ready to speak with a SEO expert?** [Book a Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 56464211](tel:37256464211) for a personalized approach.
 {{% /callout %}}
 

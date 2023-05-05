@@ -30,7 +30,7 @@ authors:
 ---
 {{< toc >}}
 {{% callout note %}}
-**Ready to talk with PPC expert?** [Contact us](/#contact) or call [+372 55514747](tel:37255599546), for personalized quote.
+**Ready to talk with PPC expert?** [Contact us](/#contact) or call [+372 56464211](tel:37255599546), for personalized quote.
 {{% /callout %}}
 ## Introduction
 
