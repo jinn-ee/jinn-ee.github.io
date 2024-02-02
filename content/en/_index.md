@@ -148,7 +148,7 @@ sections:
             Can you share a little bit about your biz and website with us? If you want a friendly chat over the phone, leave us your number and we'll call you. If texting is more your style, drop us your Instant Messenger. After getting to know you and your business goals, we'll hit you up with a personalized proposal. And if you're a fan of face-to-face chats, you can book a video appointment with us below the contact form.
       # Contact (add or remove contact options as necessary)
       email: contact@jinn.ee
-      phone: 37256464211
+      phone: 37255514747
       appointment_url: 'https://calendly.com/jinnee/video-chat'
       address:
         street: Väike-Ameerika 8

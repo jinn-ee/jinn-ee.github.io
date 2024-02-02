@@ -55,5 +55,5 @@ Hiring the right [marketing agency](/#contact) can make all the difference in yo
 
 {{% callout note %}}
 Are you a small business with big dreams? Our small but mighty marketing agency has the startup mindset and expertise to help you reach your goals. Let's collaborate and take your business to the next level!
-**Ready to talk with a marketing expert?** [Contact us](/#contact) or call [+372 5646 4211](tel:37256464211), for personal offer.
+**Ready to talk with a marketing expert?** [Contact us](/#contact) or call [+372 5646 4211](tel:37255514747), for personal offer.
 {{% /callout %}}

@@ -93,6 +93,6 @@ Every engagement begins with a no-obligation evaluation of your current online m
 Whatever your requirements are, we'll discuss our findings and your objectives to help you determine whether you're getting the most out of your current digital marketing program. The Analytics strategy session, PPC consultation, or SEO audit, as well as the corresponding discussion, allow us to determine whether and how we can assist you.
 {style="text-align: justify;"}
 {{% callout note %}}
-**Ready to speak with a SEO expert?** Send a [Message](/#contact) or book a [Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 56464211](tel:37256464211) to get a free quote
+**Ready to speak with a SEO expert?** Send a [Message](/#contact) or book a [Video Chat](https://calendly.com/jinnee/video-chat) or call now at [+372 55514747](tel:37255514747) to get a free quote
 {{% /callout %}}
 {style="text-align: left;"}

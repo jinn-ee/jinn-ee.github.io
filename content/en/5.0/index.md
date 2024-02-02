@@ -96,7 +96,7 @@ Examples:
 ## With JINN's expertise, 5.0 Robotics will solidify its position as a leader in the Industry 5.0 revolution and drive sustainable growth.
 
 {{% callout note %}}
-This offer has been prepared by [Vadim Iljin](https://vadimiljin.com). You can [Book a Video Chat](https://calendly.com/jinnee/video-chat) or Call Directly at [+372 56464211](tel:37256464211) or Email [hello@jinn.ee](mailto:hello@jinn.ee).
+This offer has been prepared by [Vadim Iljin](https://vadimiljin.com). You can [Book a Video Chat](https://calendly.com/jinnee/video-chat) or Call Directly at [+372 55514747](tel:37255514747) or Email [hello@jinn.ee](mailto:hello@jinn.ee).
 {{% /callout %}}
 
 
